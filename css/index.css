@@ -1,0 +1,16 @@
+html, body {
+    scroll-behavior: smooth;
+    padding: 0;
+    margin: 0;
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, Georgia, sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, Times, serif;
+    font-size: 33pt;
+}
